@@ -12,7 +12,8 @@ Create Exception(Error) Handling for RESTful Services - ResourceNotFoundExceptio
 Customizing Error Response Structure - ErrorDetails
 Create GlobalExceptionHandler Class
 Running Application
- 
+ ![rest-api-list](https://github.com/sathees-saty/springboot-postgresql-jpa-hibernate-crud-example/assets/65384711/3c23abcd-1fd1-4b60-ada6-1a3b6712d149)
+
 1. Get all Employees REST API
 The GET method is used to retrieve data from the server
 HTTP Method: GET 
